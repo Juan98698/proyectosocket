@@ -9,8 +9,8 @@ Un juego de cartas implementado en C++ con arquitectura cliente-servidor para pa
 - **Sistema de turnos**: Con validación de jugadas
 - **Interfaz de texto**: Colorida y fácil de usar
 - **Registro de partidas**: Historial de resultados
-![image](https://github.com/user-attachments/assets/f01ec017-b67a-4b11-8134-f595294b6131)
 
+![image](https://github.com/user-attachments/assets/f01ec017-b67a-4b11-8134-f595294b6131)
 ![image](https://github.com/user-attachments/assets/b1cdaae5-1436-46f9-97d5-3ecda28ca4bd)
 
 ## 🛠 Requisitos
